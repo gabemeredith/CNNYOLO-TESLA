@@ -15,3 +15,6 @@ env/
 #Ignore output and large data files
 output/
 data/
+
+backup-repo/
+fresh-repo/ 
