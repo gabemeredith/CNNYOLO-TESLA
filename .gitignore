@@ -1,0 +1,17 @@
+# ignore checkpoints 
+.ipynb_checkpoints
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore python cache 
+__pycache__/
+
+#Ignore Venvs
+venv/
+env/
+
+#Ignore output and large data files
+output/
+data/
