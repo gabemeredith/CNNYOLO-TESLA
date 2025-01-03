@@ -1,0 +1,9 @@
+
+argparse
+matplotlib
+scipy
+numpy
+pandas
+Pillow
+tensorflow
+yad2k
